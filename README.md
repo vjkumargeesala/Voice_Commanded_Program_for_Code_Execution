@@ -1,4 +1,4 @@
-# 🎤 Voice Commanded Program for Basic Code Execution 🤖
+# 🎤 Voice Commanded Program for Code Execution 🤖
 
 This project, created in 🗓️ 2020, is a Python 🐍-based application that uses speech 🗣️ recognition technology to execute a variety of basic programming tasks. These tasks include checking for prime numbers 🔢, identifying even ➗ and odd numbers, determining Armstrong numbers 💡, and much more, all powered by voice commands 🎙️. It serves as an excellent example of integrating natural language 🧠 processing with computational logic to create an interactive 📱 and user-friendly program.
 
