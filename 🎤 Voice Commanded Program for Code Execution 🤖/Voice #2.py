@@ -1,5 +1,5 @@
 import speech_recognition as s_r
-
+#chnage device_index value based on mic list in your system.
 
 def get_string():
     mic = s_r.Recognizer()
